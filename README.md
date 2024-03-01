@@ -1,8 +1,8 @@
 # Participantes
-João Vitor Aguiar
-Julio Carmo
-Caroline Mota
-Deise Sales
+João Vitor Aguiar <br>
+Julio Carmo<br>
+Caroline Mota<br>
+Deise Sales<br>
 Igor Franco
 
 # Diagrama UML
